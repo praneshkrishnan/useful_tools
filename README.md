@@ -4,6 +4,7 @@
 - [Dlinger](https://dillinger.io/)
 - [SlackEdit](https://stackedit.io/)
 - [Readme](https://readme.so/)
+> Readme is a Markdown editor
 - [Make a Readme](https://www.makeareadme.com/)
 - [Code Beautify](https://codebeautify.org/markdown-viewer)
 - [Typora](https://typora.io/)
