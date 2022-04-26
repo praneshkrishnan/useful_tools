@@ -12,3 +12,6 @@
 - [Long list of MarkDown Editors](https://github.com/mundimark/awesome-markdown-editors)
 - [Code Grepper](https://www.codegrepper.com/)
 > Code Grepper is a very useful tool, where when (installed as an Addon into Chrome of Firefox browser extension) searching for code examples in Google search, it throws the results of the code in the first result up in the Google Search.
+- [Sheilds.io](https://shields.io/)
+> Create and use logo's to use with Markdown pages in Github
+- 
