@@ -28,7 +28,8 @@
 - [Portainer](https://www.portainer.io/)
 > Portainer is a Universal Container Management System for Kubernetes, Docker/Swarm, and Nomad that simplifies container operations so you can deliver software to more places, faster.
 
-
+- [Mercury]() | [Mercury - Github](https://github.com/mljar/mercury)
+> Mercury is a perfect tool to convert Python notebook to interactive web app / slides / dashboard / report / REST API and share with non-programmers.
 
 
 **Mark Down Editors**
